@@ -3,3 +3,6 @@ Example work from my 2nd Year University Robotics Module. A program to make an A
 
 ## License
 See repository's attached LICENSE.
+
+## Result of Project
+The file "Robotics_Assignment.X.production.hex", found under "dist/default/production", was uploaded onto the Ardunio buggy and then run as its default program.
